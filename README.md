@@ -36,7 +36,7 @@ A maioria das pessoas **não sabe para onde vai seu dinheiro**. Aplicativos de b
 **🔗 [Acesse a Demo ao Vivo](https://financas-faceis-ochre.vercel.app/)**
 
 > 💡 **Credenciais de teste:**  
-> Email: `teste@financasfaceis.com` | Senha: `teste123`
+> Email: `teste@financasfaceis.com` | Senha: `teste123` (Ainda não habilitado)
 
 <div align="center">
 
@@ -413,21 +413,13 @@ SEO:            ████████████████████ 100
 
 ### Para Licenciamento Comercial
 
-Interessado em licenciar o **Finanças Fáceis** para sua empresa ou banco?
+Interessado em licenciar o **Finanças Fáceis** para sua empresa?
 
-📩 Email: [le.rocha1194@gmail.com](mailto:le.rocha1194@gmail.com)  
+📩 Email: [rocha.edlucaz@gmail.com](mailto:rocha.edlucaz@gmail.com)  
 💼 LinkedIn: [Lucas Eduardo Rocha](https://linkedin.com/in/lucas-eduardo-rocha)  
 🐙 GitHub: [@edlucaz](https://github.com/edlucaz)
 
-### Para Recrutadores
-
-Desenvolvedor Full-Stack especializado em:
-- ⚛️ React/Next.js (2+ anos)
-- 🐍 Python/Django (3+ anos)
-- 🎨 UI/UX com foco em performance
-- 🏗️ Arquitetura de sistemas escaláveis
-
-**Disponível para:** Oportunidades remotas/híbridas em São Paulo  
+**Disponível para:** Oportunidades remotas/híbridas e presenciais no interior de SP
 **Inglês:** Fluente técnico
 
 ---
@@ -440,7 +432,7 @@ Desenvolvedor Full-Stack apaixonado por criar soluções que realmente resolvem 
 
 ### Outras Criações
 
-🍨 **[Rocha Açaí](https://github.com/edlucaz)** - Sistema completo de gestão para delivery (Django + PostgreSQL)  
+🍨 **[Delivery Manager](https://github.com/edlucaz/delivery-manager-showcase)** - Sistema completo de gestão para delivery (Django + PostgreSQL)  
 🏥 **SaaS de Agendamento** - Plataforma para clínicas veterinárias (Django REST + React)
 
 ### Tech Stack Geral
@@ -450,19 +442,6 @@ Desenvolvedor Full-Stack apaixonado por criar soluções que realmente resolvem 
 **DevOps:** Docker, Vercel, Render, Linux (Pop!_OS)  
 **Tools:** Git, VS Code, GitHub Copilot, Notion
 
----
-
-## 🙏 Agradecimentos & Tecnologias Usadas
-
-Este projeto não seria possível sem:
-
-- **[Next.js](https://nextjs.org/)** - Por revolucionar o desenvolvimento React
-- **[Supabase](https://supabase.com/)** - Backend as a Service excepcional
-- **[shadcn/ui](https://ui.shadcn.com/)** - Componentes que elevam o padrão
-- **[Vercel](https://vercel.com/)** - Deploy e hosting seamless
-- **[Tailwind CSS](https://tailwindcss.com/)** - CSS que não atrapalha
-
----
 
 <div align="center">
 
